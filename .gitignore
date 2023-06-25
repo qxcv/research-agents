@@ -1,0 +1,6 @@
+*.bak
+*.dat
+*.dir
+*.pyc
+__pycache__
+*.egg-info
